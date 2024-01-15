@@ -4,7 +4,7 @@ public class student extends teacher
 {
 	private static int marks;
 	private static int rno;
-	private static String nm
+	private static String nm;
 	
 	public student(int marks,int rno,String nm) 
 	{
